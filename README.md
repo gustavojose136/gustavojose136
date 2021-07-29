@@ -1,4 +1,4 @@
-##Ola, soo o Gustavo, Tudo tranquilo?
+##Ola, sou o Gustavo, Tudo tranquilo?
 ##
 <div>
   <a href="https://github.com/gutsz136">

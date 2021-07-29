@@ -1,4 +1,5 @@
-## Oiii! Eu sou o Gustsz
+##Ola, soo o Gustavo, Tudo tranquilo?
+##
 <div>
   <a href="https://github.com/gutsz136">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gutsz136&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
